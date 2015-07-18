@@ -1,13 +1,17 @@
 <i>Write True (T) or FALSE (F) for the statements given below. </i>
 
-1 Rory was very sure that Granda had died. 
+1 Rory was very sure that Granda had died.  T
 
-2 Staff Nurse Maureen did not expect to see Rory in the hospital.
+2 Staff Nurse Maureen did not expect to see Rory in the hospital. T
 
-3 Val had told Rory to meet her at the hospital.
+3 Val had told Rory to meet her at the hospital.  F
 
-4 Rory could not stop saying that Granda would appear in front of him laughing at his jokes.
+4 Rory could not stop saying that Granda would appear in front of him laughing at his jokes. F
 
-5 The staff nurse managed to calm Rory when she told him Granda was very by much alive.
+5 The staff nurse managed to calm Rory when she told him Granda was very by much alive. T
 
-6 
+6 Granda had been moved to another Ward in the hospital.  F
+
+7 Val was called to come in and talk to Rory. T
+
+8 Val told Rory that he could see Granda at certain times only. F
